@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/chat-app-challenge-SCUcgbr8nK]
+- Live Site URL: [https://otep02.github.io/Chat-App/]
 
 ## My process
 
